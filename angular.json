@@ -126,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "angular-player"
+  "defaultProject": "angular-player",
+  "cli": {
+    "analytics": false
+  }
 }
